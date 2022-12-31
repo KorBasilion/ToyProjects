@@ -1,7 +1,3 @@
-function Exam1() {
-    document.write("Example Text<br>")
-}
-
 function printBirth() {
     var code = document.getElementById('code').value;
     var location = document.getElementById('result');
